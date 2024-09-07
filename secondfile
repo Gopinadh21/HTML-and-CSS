@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gopinadh - KL University CSE</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #e9ecef;
+            padding: 20px;
+        }
+        .content {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="content">
+    <h1>KL University - Gopinadh CSE</h1>
+    <img src="https://www.kluniversity.in/images/klu-banner.jpg" alt="KL University">
+
+    <p>Hello, I'm Gopinadh, a 4th-year CSE student at KL University. I specialize in Java programming, full-stack development, and solving complex algorithms and data structures problems.</p>
+
+    <h2>My Work</h2>
+    <p>Check out some of my projects:</p>
+    <ul>
+        <li><a href="#">Java Full-Stack Web Application</a></li>
+        <li><a href="#">Data Structures Challenges on HackerRank</a></li>
+        <li><a href="#">Interactive Web Designs</a></li>
+    </ul>
+
+    <h2>Get in Touch</h2>
+    <p>You can contact me at <a href="mailto:gopinadh@kluniversity.in">gopinadh@kluniversity.in</a>.</p>
+</div>
+
+</body>
+</html>
