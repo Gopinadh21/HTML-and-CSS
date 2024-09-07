@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gopinadh - KL University CSE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            background-color: #fff;
+            padding: 20px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>KL University - Department of CSE</h1>
+    <p>Welcome to Gopinadh's Webpage</p>
+</header>
+
+<section>
+    <h2>About Gopinadh</h2>
+    <p>Gopinadh is a 4th-year student in the Department of Computer Science and Engineering at KL University. He has a strong knowledge of Java programming, full-stack development, SQL, and HTML. Gopinadh is particularly skilled in solving algorithms and data structures problems using Java.</p>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li>Full-Stack Web Application using Java and SQL</li>
+        <li>Data Structures and Algorithms Practice on HackerRank</li>
+        <li>Interactive Web Design using HTML, CSS, and JavaScript</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: gopinadh@kluniversity.in</p>
+</section>
+
+</body>
+</html>
